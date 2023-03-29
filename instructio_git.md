@@ -18,7 +18,7 @@ git status
 
 Для добавления файлов в GIT можно использовать следующую команду
 
-git add <filename>
+git add < filename>
 
 ## Создание коммита
 
@@ -50,6 +50,6 @@ git log --oneline
 
 git diff
 
-git diff <hash>
+git diff < hash >
 
-git diff <hash1> <hash2>
+git diff < hash1> < hash2>
