@@ -14,18 +14,8 @@ git init
 
 git status
 
-## Добавление изменений к отслеживанию 
-git init
-git status
+## Добавление файлов в Git
+
+Для добавления файлов в GIT можно использовать следующую команду
+
 git add <filename>
-git commit
-git commit -m "message"
-git commit -a
-git commit -am "message"
-git log
-git log --oneline
-git diff
-git diff <hash>
-git diff <hash1> <hash2>
-git checkout <hash>
-git checkout master
