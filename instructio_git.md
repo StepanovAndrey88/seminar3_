@@ -25,6 +25,11 @@ git add <filename>
 Для внесения изменений однострочным сообщением или через редактор используются следующие команды
 
 git commit
+
 git commit -m "message"
+
 git commit -a
+
 git commit -am "message"
+
+git commit --amend  (изменение последнего коммита)
