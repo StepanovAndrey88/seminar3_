@@ -53,3 +53,11 @@ git diff
 git diff < hash >
 
 git diff < hash1> < hash2>
+
+## Переключение веток
+
+Переключение веток можно выполнить с помощью следующих команд
+
+git checkout < hash>
+
+git checkout master
