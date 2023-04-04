@@ -74,3 +74,7 @@ git diff < hash1> < hash2>
 git checkout < hash>
 
 git checkout master
+
+## Ветвление
+
+Ветвления в GIT нужны для того, что бы....
