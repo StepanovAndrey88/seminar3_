@@ -86,3 +86,8 @@ git checkout master
 git branch
 
 ## Создание новой ветки
+Чтобы создать новую ветку нужно ввести команду
+
+git branch \<branch name>\
+где \<branch name>\ - это имя новой ветки
+
